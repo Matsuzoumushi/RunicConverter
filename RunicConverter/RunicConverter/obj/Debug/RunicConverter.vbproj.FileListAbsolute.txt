@@ -1,0 +1,11 @@
+D:\github\tools\RunicConverter\RunicConverter\bin\Debug\RunicConverter.exe.config
+D:\github\tools\RunicConverter\RunicConverter\bin\Debug\RunicConverter.exe
+D:\github\tools\RunicConverter\RunicConverter\bin\Debug\RunicConverter.pdb
+D:\github\tools\RunicConverter\RunicConverter\bin\Debug\RunicConverter.xml
+D:\github\tools\RunicConverter\RunicConverter\obj\Debug\RunicConverter.Resources.resources
+D:\github\tools\RunicConverter\RunicConverter\obj\Debug\RunicConverter.vbproj.GenerateResource.cache
+D:\github\tools\RunicConverter\RunicConverter\obj\Debug\RunicConverter.vbproj.CoreCompileInputs.cache
+D:\github\tools\RunicConverter\RunicConverter\obj\Debug\RunicConverter.exe
+D:\github\tools\RunicConverter\RunicConverter\obj\Debug\RunicConverter.xml
+D:\github\tools\RunicConverter\RunicConverter\obj\Debug\RunicConverter.pdb
+D:\github\tools\RunicConverter\RunicConverter\obj\Debug\RunicConverter.vbprojAssemblyReference.cache
